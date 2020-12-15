@@ -1,0 +1,1 @@
+docker service scale --detach Marines=20
